@@ -1,4 +1,3 @@
-Lista Simples
 Este é um projeto em Java que implementa uma lista simples. A lista permite inserir, remover, buscar e ordenar elementos, entre outras funcionalidades.
 
 Funcionalidades
