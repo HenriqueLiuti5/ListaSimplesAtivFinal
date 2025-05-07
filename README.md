@@ -1,76 +1,34 @@
-Lista Encadeada Simples em Java
-Este projeto implementa uma estrutura de lista encadeada simples em Java, permitindo operações como inserção, remoção, busca, ordenação e limpeza da lista. É ideal para estudantes e desenvolvedores que desejam compreender e praticar os fundamentos de estruturas de dados dinâmicas.
+📚 Lista Simples – Atividade Final
+Repositório desenvolvido para a atividade final da disciplina de Estrutura de Dados, contendo a implementação de uma Lista Simples em Java com base na interface IEstruturaSimples.
 
-🔧 Funcionalidades
-Inserção: Adiciona elementos ao final da lista.
+🧩 Sobre o Projeto
+Este projeto tem como objetivo a criação de uma estrutura de dados linear do tipo lista encadeada simples, com as principais operações implementadas, como inserção, remoção, busca e exibição de elementos.
 
-Remoção: Remove elementos com base no valor fornecido.
+🛠️ Tecnologias Utilizadas
+Java 17
 
-Busca: Localiza elementos por índice ou valor.
+IntelliJ IDEA
 
-Ordenação: Ordena os elementos em ordem crescente ou decrescente.
+JDK padrão
 
-Limpeza: Remove todos os elementos da lista.
+Programação orientada a objetos
 
-Capacidade: Dobra a capacidade da lista quando necessário.
-GitHub
-+2
-Gist
-+2
-GitHub Docs
-+2
-GitHub Docs
-GitHub
-
-📁 Estrutura do Projeto
-css
-Copiar
-Editar
-ListaSimplesAtivFinal/
-├── src/
-│   ├── Lista.java
-│   ├── No.java
-│   └── Main.java
-├── .gitignore
-├── ListaSimplesAtivFinal.iml
-└── README.md
-Lista.java: Contém a classe principal que implementa a lista encadeada e seus métodos.
-
-No.java: Define a estrutura do nó utilizado na lista.
-
-Main.java: Classe de entrada que demonstra o uso da lista com exemplos práticos.
-
-🚀 Como Executar
+▶️ Como Executar
 Clone o repositório:
 
 bash
 Copiar
 Editar
 git clone https://github.com/HenriqueLiuti5/ListaSimplesAtivFinal.git
-Compile o projeto:
+Abra o projeto no IntelliJ IDEA (ou outro ambiente Java).
 
-bash
-Copiar
-Editar
-javac src/*.java
-Execute o programa:
+Execute a classe Main.java para testar as funcionalidades da lista.
 
-bash
-Copiar
-Editar
-java -cp src Main
-🧠 Aprendizados
-Este projeto reforça conceitos fundamentais de estruturas de dados, como:
+🧠 Autor
+Henrique Liuti
+Estudante de Ciência da Computação – 2º ano
+LinkedIn
 
-Manipulação de ponteiros e referências em Java.
+📜 Licença
+Este projeto é apenas para fins educacionais e acadêmicos.
 
-Implementação de estruturas dinâmicas sem uso de bibliotecas prontas.
-
-Compreensão de algoritmos de ordenação e busca em listas encadeadas.
-
-📄 Licença
-Este projeto está licenciado sob a MIT License.
-
-Sinta-se à vontade para contribuir com melhorias ou sugestões!
-
-Para aprofundar seus conhecimentos em estruturas de dados em Java, recomendo o livro Estruturas de Dados e Algoritmos em Java, que aborda de forma detalhada listas encadeadas e outras estruturas fundamentais.
